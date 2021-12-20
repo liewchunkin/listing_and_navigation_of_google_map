@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">K4U</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">K4U</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_news">News</string>
+    <string name="menu_events">Events</string>
+    <string name="menu_about_us">About Us</string>
+    <string name="profile">Profile</string>
+
+    //News
+    <string name="error_input">Value is required!</string>
+    <string name="error_title_input">Title should not contain fullstop!</string>
+    <string name="title_activity_news">News</string>
+    <string name="news">News</string>
+    <string name="newsfeed">News Feed</string>
+    <string name="news_image">News Image</string>
+
+    //Events
+    <string name="error_date_input">Choose a date!</string>
+    <string name="events">Events</string>
+    <string name="title_activity_events">Events</string>
+    <string name="events_image">Events Image</string>
+
+    //Post
+    <string name="title_activity_post">Add Post</string>
+    <string name="add_post">Add Post</string>
+    <string name="author">Author</string>
+    <string name="create_post">Create Post</string>
+    <string name="title">Title</string>
+    <string name="write_your_content_here">Write your content here</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="upload_image_here">Upload Image Here</string>
+    <string name="post">Post</string>
+    <string name="share">Share</string>
+    <string name="event_recycler_context">This is the event context. You can dial, browse, and
+        share the event by clicking the link.</string>
+    <string name="news_recycler_context">This is the news context. You can dial, browse, and
+        share the event by clicking the link.</string>
+
+    <string name="title_activity_event">Add Event</string>
+    <string name="add_event">Add Event</string>
+    <string name="event_description">Event Description</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="display_date">dd/mm/yyyy</string>
+    <string name="phone">Phone</string>
+    <string name="host">Host</string>
+    <string name="website_link">Website Link</string>
+    <string name="contact_no">Contact No</string>
+    <string name="add">Add</string>
+
+    //Home
+    <string name="cover_page1">Cover Page 1</string>
+    <string name="cover_page2">Cover Page 2</string>
+
+
+    //Profile
+    <string name="user_name">User Name</string>
+    <string name="about">About</string>
+    <string name="over_view">Overview</string>
+    <string name="description">Description</string>
+    <string name="organization">Organization</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_us">contact us</string>
+    <string name="edit_profile">edit profile</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="save_profile">save profile</string>
+    <string name="organization_name">Organization Name</string>
+
+
+    //Login
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="continue_as_guest">Continue As Guest</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgotten_password">Forgotten Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="user_email">TGY02</string>
+    <string name="user_password">TGY02</string>
+    <string name="invalid_account">Invalid email or password</string>
+    <string name="logout">Logout</string>
+    <string name="loading">Loading</string>
+    <string name="done_log_out">Log Out Already</string>
+    <string name="done">Done</string>
+    <string name="error">Error</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="app_logo">App logo</string>
+
+    //Forget Password
+    <string name="forget_password_instruction">Please enter your email address and we will send you an email to reset your password</string>
+    <string name="send">Send</string>
+    //About us
+    <string name="aim">Aim</string>
+    <string name="others">Others</string>
+    <string name="description_text">This app is designed to bring benefit and convenience to OKU</string>
+    <string name="aim_text">We aimed to provide events’ information and OKU location based services</string>
+    <string name="others_text">customerservice@k4u.com.my</string>
+
+    //Map
+    <string name="title_activity_maps">K4U</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="lat_long_snippet">Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="poi">poi</string>
+    <string name="nearby">Nearby</string>
+    <string name="service_image">Service Image</string>
+    <string name="title_activity_create_map">K4U</string>
+    <string name="title_activity_maps2">K4U</string>
+    <string name="button_to_create_map">Create Map</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    //Sign up
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="register">Register</string>
+    <string name="about_type_here">about type here</string>
+    <string name="description_type_here">description type here</string>
+    <string name="organization_type_here">organization type here</string>
+    <string name="developer_email">customerservice@k4u.com.my</string>
+    <string name="request_password">request_password</string>
+    <string name="forget_password_request">Request password for email below because forget</string>
+    <string name="email_reply">You will receive the reset password email within two working days</string>
+    <string name="user_general_image">user general image</string>
+
+    //Facility
+    <string name="facility_name">Facility Name</string>
+    <string name="facility_description">Facility Description</string>
+    <string name="service_list">Service List</string>
+    <string name="latitude">Latitude</string>
+    <string name="map">map</string>
+    <string name="location">location</string>
+    <string name="longitude">Longitude</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="facility_name_image">Facility Name Image</string>
+    <string name="title_activity_nearby">NearbyActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="map2">Map</string>
+
+</resources>
