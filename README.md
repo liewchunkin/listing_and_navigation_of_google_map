@@ -1,12 +1,12 @@
 # listing_and_navigation_of_google_map
 
--In the CreateMap Activity, the user can search for the specific location by entering
+In the CreateMap Activity, the user can search for the specific location by entering
 the location name using the search view. Alternatively, the user can tap on the top
 right corner to move the camera of google map to the user&#39;s current location. After
 that, they can long press to pin on the map. These two ways will return the latitude
 and longitude coordinates of the location to InsertFacility Activity.
 
--In the InsertFacility Activity, users can type the facility name, facility description
+In the InsertFacility Activity, users can type the facility name, facility description
 and service list. Users need to tap on the LOCATION button to navigate to the
 InsertFacility Activity to fill in the latitude and longitude. They need to tap the
 CHOOSE PHOTO button to upload a photo and will display it in an ImageView. All
